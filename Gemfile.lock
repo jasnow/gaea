@@ -24,7 +24,7 @@ GEM
     hashdiff (0.3.0)
     httparty (0.14.0)
       multi_xml (>= 0.5.2)
-    json (2.0.1)
+    json (2.0.2)
     multi_xml (0.5.5)
     rainbow (2.1.0)
     rake (11.2.2)
