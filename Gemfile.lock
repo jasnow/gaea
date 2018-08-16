@@ -27,7 +27,7 @@ GEM
       multi_xml (>= 0.5.2)
     json (2.1.0)
     multi_xml (0.6.0)
-    public_suffix (3.0.2)
+    public_suffix (3.0.3)
     rainbow (3.0.0)
     rake (12.3.1)
     rspec (3.8.0)
