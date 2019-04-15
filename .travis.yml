@@ -9,4 +9,3 @@ rvm:
   - 2.4.6
 
 script: bundle exec rspec spec
-sudo: false
