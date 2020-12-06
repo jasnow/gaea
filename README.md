@@ -1,6 +1,6 @@
 # Gaea
 
-[![Build Status](https://travis-ci.org/vinhnglx/gaea.svg?branch=develop)](https://travis-ci.org/vinhnglx/gaea)
+[![Build Status](https://travis-ci.com/jasnow/gaea.svg?branch=develop)](https://travis-ci.com/jasnow/gaea)
 [![Coverage Status](https://coveralls.io/repos/github/vinhnglx/gaea/badge.svg?branch=develop)](https://coveralls.io/github/vinhnglx/gaea?branch=develop)
 
  The application helps you search information relate to languages and technologies. Currently, this application just supports three sources: [StackOverFlow](http://stackoverflow.com/) - [RubyGems](https://rubygems.org/) - [Confreaks](http://confreaks.tv/) with simple features.
