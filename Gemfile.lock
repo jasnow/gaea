@@ -29,7 +29,7 @@ GEM
     json (2.5.1)
     mime-types (3.3.1)
       mime-types-data (~> 3.2015)
-    mime-types-data (3.2021.0212)
+    mime-types-data (3.2021.0225)
     multi_xml (0.6.0)
     public_suffix (4.0.6)
     rainbow (3.0.0)
@@ -62,7 +62,7 @@ GEM
     tins (1.28.0)
       sync
     unicode-display_width (1.7.0)
-    webmock (3.11.3)
+    webmock (3.12.0)
       addressable (>= 2.3.6)
       crack (>= 0.3.2)
       hashdiff (>= 0.4.0, < 2.0.0)
